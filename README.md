@@ -51,3 +51,17 @@ The dataset contains 1000 student records with 10 features, including demographi
 
 ### Timeline
 Completed in 2024 as part of Data Science for Business coursework.
+
+## Visual Insights
+
+### Class Distribution
+![Class Distribution](images/class_distribution.png)
+
+### Correlation Heatmap
+![Correlation Heatmap](images/correlation_heatmap.png)
+
+### Accuracy vs K Value
+![Accuracy vs K](images/accuracy_vs_k.png)
+
+### Confusion Matrix
+![Confusion Matrix](images/confusion_matrix.png)
